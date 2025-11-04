@@ -1,8 +1,8 @@
-# 🪙 Bitcoin Price Prediction (2014–2024)
+# Bitcoin Price Prediction (2014–2024)
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project applies **machine learning techniques** to predict **Bitcoin (BTC-USD)** prices using historical data (2014–2024).
 It explores **time-series forecasting** through models like Ridge Regression, Random Forest, and XGBoost, with full performance evaluation and visualization.
@@ -32,13 +32,13 @@ bitcoin/
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 > **Goal:** Predict Bitcoin’s closing price using past data and engineered time-series features to identify trends and patterns.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Category              | Tools / Libraries           |
 | --------------------- | --------------------------- |
@@ -63,7 +63,7 @@ bitcoin/
 
 ---
 
-## 🏆 Best Model
+##  Best Model
 
 | Model                        | R²     | RMSE     | MAPE     | Description                                           |
 | ---------------------------- | ------ | -------- | -------- | ----------------------------------------------------- |
@@ -71,7 +71,7 @@ bitcoin/
 
 ---
 
-## 📊 Sample Output Preview
+##  Sample Output Preview
 
 ### Performance Plot (5-Minute Forecast)
 
@@ -87,7 +87,7 @@ bitcoin/
 
 ---
 
-## ⚙️ Model Usage
+##  Model Usage
 
 Load the saved model in Python:
 
@@ -108,7 +108,7 @@ Ensure that the **input feature columns** match those in `model_metadata.json`.
 
 ---
 
-## 🧩 Key Concepts
+##  Key Concepts
 
 * **Time Series Forecasting** – Sequential prediction of price movements
 * **Feature Engineering** – Deriving meaningful metrics (MA, volatility, ratios)
@@ -118,7 +118,7 @@ Ensure that the **input feature columns** match those in `model_metadata.json`.
 
 ---
 
-## 🧾 Outputs
+##  Outputs
 
 | File                           | Purpose                               |
 | ------------------------------ | ------------------------------------- |
@@ -130,7 +130,7 @@ Ensure that the **input feature columns** match those in `model_metadata.json`.
 
 ---
 
-## 🚀 Deployment Ideas
+##  Deployment Ideas
 
 * Convert model to **ONNX** for interoperability
 * Host API using **FastAPI** or **Flask**
@@ -139,7 +139,7 @@ Ensure that the **input feature columns** match those in `model_metadata.json`.
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Financial markets are **volatile and non-stationary**
 * Ridge Regression assumes **linearity**, limiting performance on complex patterns
@@ -148,7 +148,7 @@ Ensure that the **input feature columns** match those in `model_metadata.json`.
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Incorporate **LSTM / Transformer models** for deeper temporal learning
 * Add **technical indicators** like RSI, MACD, and Bollinger Bands
@@ -158,16 +158,16 @@ Ensure that the **input feature columns** match those in `model_metadata.json`.
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Developed by:** [TechMaxx Team&Co](https://github.com/)
-💡 *Machine Learning & Financial Forecasting Enthusiast*
-📅 *Project Duration:* 2014–2024 Dataset Study
-🔗 [Google Colab Notebook](https://colab.research.google.com/drive/1gcklGqHs1DgLLMWXqa7PnznRrC4JhpZk)
+ *Machine Learning & Financial Forecasting Enthusiast*
+ *Project Duration:* 2014–2024 Dataset Study
+ [Google Colab Notebook](https://colab.research.google.com/drive/1gcklGqHs1DgLLMWXqa7PnznRrC4JhpZk)
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License** — you’re free to use, modify, and distribute with attribution.
 
