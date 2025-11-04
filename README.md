@@ -99,7 +99,7 @@ We welcome contributions from the community!
 **TechMaxx Team** — A collaborative group of developers focused on technical innovation and learning.
 
 * 💼 GitHub: [TechMaxx-Collab](https://github.com/TechMaxx-Collab)
-* 📧 Contact: *[team.techmaxx@gmail.com](dipansusahoo11@gmail.com)* (or replace with your actual contact)
+* 📧 Contact: *[dipansusahoo11@gmail.com](dipansusahoo11@gmail.com)* (or replace with your actual contact)
 
 
 ## License
